@@ -8,5 +8,27 @@ Com isso, o projeto teve o seu fim decretado em fevereiro de 2021, após a concl
 
 Sem mais delongas, a #Neuroapp é uma aplicação que auxilia na organização do dia a dia para pessoas com epilepsia. O core da aplicação nada mais é que um calendário, onde o [usuário] fará o input de suas atividades diárias e com isso alimentará o app com dados relevantes para assim conseguir receber avisos sobre possíveis alertas de convulsões e principalmente gerar um relatório com informações relevantes para consultas mensais com o Neurologista.
 
-Criador: 
-Daniela Fernandez da Cruz
+Criador: Daniela Fernandez da Cruz
+
+Documentação
+
+<ol>
+<li><a href="Documentação do projeto"> Documentação de Contexto</a></li>
+<li><a href="Especificação do Projeto"> Especificação do Projeto</a></li>
+<li><a href="Projeto de Interface.md"> Projeto de Interface</a></li>
+<li><a href="Template padrão da Aplicação.md"> Template padrão da Aplicação</a></li>
+<li><a href="Programação de Funcionalidades.md"> Programação de Funcionalidades</a></li>
+<li><a href="Plano de Testes de Software.md"> Plano de Testes de Software</a></li>
+<li><a href="Registro de Testes de Software.md"> Registro de Testes de Software</a></li>
+</ol>
+
+# Hospedagem
+
+
+# Código-Fonte
+
+* <a href="codigo-fonte/README.md">Código Fonte</a>
+
+# Apresentação
+
+* <a href="apresentacao/README.md">Apresentação do Projeto</a>
