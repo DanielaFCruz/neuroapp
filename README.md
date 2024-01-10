@@ -1,6 +1,6 @@
 # Neuroapp
 
-*Aplicação para auxiliar pessoas com epilepsia*
+*Aplicação com objetivo de melhorar a qualidade de vida de pessoas com epilepsia*
 
 Essa startup surgiu no ano de 2020, a partir de um projeto de conclusão do curso de Marketing e Data Science na FIAP (Faculdade de Administração Paulista). Até o presente momento, ele não foi desenvolvido, pois na época era necessário um desenvolvedor web para construção da aplicação e infelizmente isso era impossível de conseguir devido aos altos custos e principalmente a disponibilidade de alguém prestar o serviço voluntariamente. 
 
