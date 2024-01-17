@@ -13,10 +13,9 @@ Criador: Daniela Fernandez da Cruz
 Documentação
 
 <ol>
-<li><a href="Documentação do projeto"> Documentação de Contexto</a></li>
 <li><a href="Especificação do Projeto"> Especificação do Projeto</a></li>
 <li><a href="Projeto de Interface.md"> Projeto de Interface</a></li>
-<li><a href="Template padrão da Aplicação.md"> Template padrão da Aplicação</a></li>
+<li><a href="Template da Aplicação.md"> Template padrão da Aplicação</a></li>
 <li><a href="Programação de Funcionalidades.md"> Programação de Funcionalidades</a></li>
 <li><a href="Plano de Testes de Software.md"> Plano de Testes de Software</a></li>
 <li><a href="Registro de Testes de Software.md"> Registro de Testes de Software</a></li>
