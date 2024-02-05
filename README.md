@@ -10,7 +10,7 @@ Sem mais delongas, a #Neuroapp é uma aplicação que auxilia na organização d
 
 O objetivo é criar um MVP da solução com previsão de lançamento oficial em Outubro/2024.
 
-MVP: Uma aplicação web/mobile que permita o usuário inserir informações diárias para geração de um relatório simples e relevante para consultas com o médido Neurologista.
+MVP: Uma aplicação web/mobile que permita o usuário inserir informações diárias para geração de um relatório simples e relevante para consultas com o Neurologista.
 
 Documentação
 
